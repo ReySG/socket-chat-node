@@ -1,6 +1,6 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Esta es una pequeña aplicacion de un chat basico con sockets nodejs y jquery , para crear salas de chat funcionales
 
 Recuerden que deben de reconstruir los módulos de node con el comando
 
